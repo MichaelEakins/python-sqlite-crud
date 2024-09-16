@@ -7,6 +7,8 @@ To preview this markdown in VS Code:
 - On Windows/Linux: `Ctrl + Shift + V`
 - On macOS: `Cmd + Shift + V`
 
+A useful VS Code extension to view the diagrams is: [Markdown Preview Mermaid Support](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid)
+
 
 ## Table of Contents
 1. [Getting Started](#getting-started)
