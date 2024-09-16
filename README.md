@@ -3,6 +3,11 @@
 
 This repository demonstrates how to create a basic Python project that interacts with an SQLite database. The project includes methods for performing CRUD (Create, Read, Update, Delete) operations, showcasing how to work with SQLite databases using Python's built-in `sqlite3` module.
 
+To preview this markdown in VS Code:
+- On Windows/Linux: `Ctrl + Shift + V`
+- On macOS: `Cmd + Shift + V`
+
+
 ## Table of Contents
 1. [Getting Started](#getting-started)
 2. [CRUD Operations](#crud-operations)
